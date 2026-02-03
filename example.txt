@@ -1,2 +1,9 @@
-This is a new chapter
-We are gone begin this into multiple steps causes more time.
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My First Page</title>
+  </head>
+  <body>
+    <h1>Hello DevOps 🚀</h1>
+  </body>
+</html>
